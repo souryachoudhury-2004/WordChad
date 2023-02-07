@@ -360,6 +360,18 @@
    'C:\\Users\\Sourya '
    'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\__init__.py',
    'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Sourya '
+   'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Sourya '
+   'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Sourya '
+   'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
+   'PYMODULE'),
   ('getpass',
    'C:\\Users\\Sourya '
    'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getpass.py',
@@ -400,14 +412,6 @@
    'C:\\Users\\Sourya '
    'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
    'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\Sourya '
-   'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Users\\Sourya '
-   'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
-   'PYMODULE'),
   ('subprocess',
    'C:\\Users\\Sourya '
    'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
@@ -415,10 +419,6 @@
   ('signal',
    'C:\\Users\\Sourya '
    'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
-   'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\Sourya '
-   'Choudhury\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
    'PYMODULE'),
   ('PySimpleGUI',
    'C:\\Users\\Sourya '

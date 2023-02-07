@@ -13,8 +13,6 @@ window = sg.Window("WordChad", layout=layout, size=(1000, 700))
 
 while True:
     event, values = window.read()
-    print(event)
-    print(values)
 
     try:
         if event == "open":
